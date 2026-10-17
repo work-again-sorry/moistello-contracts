@@ -1,7 +1,11 @@
 /target/
 **/*.rs.bk
 *.pem
+temp_auto_push.bat
 *.wasm
 *.optimized.wasm
-.env
 config/keys/
+.gitignore
+branch_structure.json
+config.bat
+node_modules
